@@ -1,4 +1,6 @@
-### Hi there 👋
+### 😄 Here I am, Carlos Rios 👋
+## 🔭 I’m currently working on ...
+## 🌱 I’m currently learning ...
 
 <!--
 **crios2020/crios2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
